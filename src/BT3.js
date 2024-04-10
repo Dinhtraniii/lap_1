@@ -16,7 +16,7 @@ const Button = (props) => (
 );
 export default () => (
     <View style ={{flex: 1, justifyContent: 'center' }}>
-        <Button text="Say hello" onPress={() => alert("Mai Thuc Hai Nam")}/>
+        <Button text="Say hello" onPress={() => alert("Dinh Tran")}/>
         <Button 
             text="Say goodbye" 
             onPress={() => alert("goodbye")} 
